@@ -1,0 +1,13 @@
+
+{
+  "name": "clean-scraper",
+  "version": "1.0.0",
+  "description": "Simple Puppeteer-based website scraper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
